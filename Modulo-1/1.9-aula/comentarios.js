@@ -1,10 +1,3 @@
-/**
- * arquivo: comentario.js
- * descrição: explicação de como podemos usar comentários em JavaScript
- * author: Glaucia Lemos - twitter: glaucia_lemos86
- * data: 22/12/2020
- */
-
 // ==> Single Line Comments //
 let animal = 'cachorro';
 // console.log(animal);
