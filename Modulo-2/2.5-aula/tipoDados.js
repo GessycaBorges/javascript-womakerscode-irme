@@ -1,11 +1,3 @@
-/**
- * arquivo: tipoDados.js
- * descrição: explicação de como podemos usar diferentes tipos de 
- * dados em JavaScript
- * author: Glaucia Lemos - twitter: glaucia_lemos86
- * data: 25/12/2020
- */
-
 // String
 
 /* 'Olá' 
