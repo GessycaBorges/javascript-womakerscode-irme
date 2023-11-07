@@ -1,11 +1,3 @@
-/**
- * arquivo: operadoresComparacao.js
- * descrição: explicação de como podemos usar operadores
- * de coparação em JavaScript
- * author: Glaucia Lemos - twitter: glaucia_lemos86
- * data: 27/12/2020
- */
-
 // Igual a == (true ou false) - if
 /* console.log(10 == 10); // true -> verdadeiro
 console.log(12 == 10); // false -> falso */
